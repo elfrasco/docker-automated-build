@@ -1,3 +1,3 @@
 FROM fedora:20
 MAINTAINER Neependra Khare <neependra.khare@gmail.com>
-CMD echo Hello World
+CMD echo Hello Docker World
